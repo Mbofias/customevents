@@ -1,0 +1,18 @@
+{
+    "name": "es.mbofias.customevents",
+    "version": "1.0.0",
+    "displayName": "Custom Events",
+    "description": "A basic unity package to include custom events and listeners to a project",
+    "unity": "2021.3",
+    "unityRelease": "2f1",
+    "dependencies": {
+   },
+   "keywords": [
+    "event", "listener", "scriptable", "object", "editor"
+       ],
+    "author": {
+      "name": "Marc Bofias",
+      "email": "marc.bofias@gmail.com",
+      "url": "https://github.com/Mbofias/customevents"
+    }
+  }
