@@ -1,0 +1,16 @@
+{
+    "name": "MBofiasEvents.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:aaac4ea85e73aca4e9b2864fdfdb157e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
